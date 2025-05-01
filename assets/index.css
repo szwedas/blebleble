@@ -17,6 +17,11 @@
 }
 
 
+
+.discord:hover{
+    opacity: 0.5;
+}
+
 .inner_grid{
     position: absolute;
     top: 0;
@@ -31,6 +36,24 @@
     grid-template-columns: max-content max-content;
     margin-left: auto;
     margin-right: auto;
+}
+
+.discord_text{
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+    height: max-content;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 50px;
+}
+
+.discord_image{
+    width: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
 }
 
 html{
