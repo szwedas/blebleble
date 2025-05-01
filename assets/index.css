@@ -33,19 +33,6 @@
     margin-right: auto;
 }
 
-.discord_text{
-    margin-top: auto;
-    margin-bottom: auto;
-    color: white;
-    height: max-content;
-    font-size: 20px;
-    font-weight: 600;
-    text-align: center;
-    line-height: 50px;
-}
-
-
-
 html{
     scroll-behavior: smooth;
 }
