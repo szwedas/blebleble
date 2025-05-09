@@ -2,13 +2,12 @@
 body .bottom_bar{
     z-index: 1;
 }
-.rotate90 {
-rotate: 180deg;
-}
+
 .back_img{
     width: 17px;
     margin-top: auto;
     margin-bottom: auto;
+    rotate: 180deg;
 }
 
 .action_grid{
