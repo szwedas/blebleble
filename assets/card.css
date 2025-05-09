@@ -3,7 +3,7 @@ body .bottom_bar{
     z-index: 1;
 }
 .rotate90 {
-rotate: 90deg;
+rotate: 180deg;
 }
 .back_img{
     width: 17px;
