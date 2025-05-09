@@ -3,11 +3,7 @@ body .bottom_bar{
     z-index: 1;
 }
 .rotate90 {
-    -webkit-transform: rotate(180deg);
-    -moz-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    transform: rotate(180deg);
+rotate: 90deg;
 }
 .back_img{
     width: 17px;
